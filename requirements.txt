@@ -1,0 +1,9 @@
+# Essential packages for Ghana Rainfall Forecast
+xgboost
+lightgbm
+catboost
+shap
+lime
+onnxmltools
+onnx
+seaborn
