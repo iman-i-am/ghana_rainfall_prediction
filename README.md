@@ -213,7 +213,7 @@ Farmers submit forecasts predominantly during **early morning and evening hours*
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 ### Pipeline Overview
 
@@ -313,7 +313,7 @@ LIME was applied instance-level to explain individual predictions across all fou
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1 — Google Colab (Recommended)
 
@@ -348,13 +348,13 @@ Running the notebook produces:
 
 ---
 
-## 📑 Stakeholder Presentation
+## Stakeholder Presentation
 
 A PowerPoint deck is included in the `presentation/` folder for communicating findings to non-technical audiences — researchers, agricultural extension officers, and community stakeholders who need the insight without the technical detail.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```
 xgboost
